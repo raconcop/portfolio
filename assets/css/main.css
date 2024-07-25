@@ -2932,7 +2932,7 @@ input[type="button"]:disabled,
 }
 
 .poptrox-popup .caption {
-	background: #fff;
+	background: #0f0f0f;
 	bottom: 0;
 	cursor: default;
 	font-size: 0.9em;
